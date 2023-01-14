@@ -1,11 +1,6 @@
-//trying to commit
+//npm updated trying to commit
 
-import {
-  BrowserRouter as Router,
-  Route,
-  Routes,
-  NavLink,
-} from 'react-router-dom';
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import React from 'react';
 import Header from './components/Header';
 import FeedbackList from './components/FeedbackList';
